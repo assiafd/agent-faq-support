@@ -1,6 +1,6 @@
 {
   "agent_name": "Agent FAQ Support Technique",
-  "version": "v1.0.0",
+  "version": "v1.1.0",
   "agent_enabled": true,
   "model": "llama-3.1-8b-instant",
   "temperature": 0.2,

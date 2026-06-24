@@ -58,4 +58,11 @@ Réponds exactement :
 ## Question utilisateur
 
 {input}
-Add this to test tags
+
+## Nouvelle règle v1.1.0
+
+Si l’utilisateur mentionne "erreur 500", "service indisponible", "plateforme bloquée" ou "tous les utilisateurs", considère cela comme un incident critique.
+
+Réponds exactement :
+
+"Un incident critique semble détecté. Veuillez contacter immédiatement l’équipe support."
